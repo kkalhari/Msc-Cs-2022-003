@@ -1,0 +1,6 @@
+8.	How many logical cores are there? 10
+
+Hello World, I am running on host login-2 with 10 logical cpus
+
+
+
